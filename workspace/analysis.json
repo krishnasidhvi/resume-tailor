@@ -1,0 +1,25 @@
+{
+  "match_score": 88,
+  "matching_skills": [
+    "AWS cloud environment (EC2, VPC, S3, IAM)",
+    "On-premises to Cloud application migration / hybrid environment management",
+    "Infrastructure as Code (IaC) with CloudFormation & Terraform",
+    "Scripting (Python, Shell/Bash)",
+    "Kubernetes container orchestration & Docker",
+    "CI/CD with Jenkins and GIT",
+    "Monitoring & Observability (Prometheus, Grafana, Splunk)",
+    "AWS Developer Associate Certification"
+  ],
+  "missing_but_true": [
+    "AWS RDS (Master resume highlights AWS infrastructure, VPC, EC2, S3, IAM, SQS, SNS, but RDS is not explicitly named; however experience with database enterprise workloads and S3 storage exists)"
+  ],
+  "missing_and_absent": [
+    "GitLab / AWS CodePipeline (Master resume lists Jenkins and GIT, but not GitLab or AWS CodePipeline specifically)"
+  ],
+  "changes_summary": [
+    "Tailored professional summary to emphasize AWS Cloud DevOps, hybrid environments, and application migration experience matching the target role.",
+    "Highlighted hands-on expertise in AWS core services (VPC, EC2, S3, IAM, CloudFormation, Terraform) and migration / deployment automation.",
+    "Structured Technical Skills and Work Experience using clean Markdown formatting without asterisks or long dashes.",
+    "Ensured all dates, titles, and employer names remain 100% byte-for-byte identical to master_resume.md."
+  ]
+}

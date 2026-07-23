@@ -1,0 +1,6 @@
+- The master resume is the ONLY source of truth about the candidate.
+- NEVER invent, add, or imply skills, tools, employers, titles, dates, certifications, degrees, or accomplishments that are not present in the master resume.
+- You MAY: reorder content, rewrite bullet points to mirror the JD's terminology, expand abbreviations, surface under-emphasized but genuinely present experience, adjust the professional summary, and trim irrelevant content.
+- Anything the JD requires that the master resume cannot support goes into `missing_and_absent` in the analysis — it must NOT appear in the tailored resume.
+- Keep all dates, company names, and titles byte-for-byte identical to the master resume.
+- Output `analysis.json` as raw valid JSON only — no code fences, no commentary.

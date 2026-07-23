@@ -1,0 +1,1 @@
+2. [tailored_resume.md](file:///C:/Users/Masan/resume-tailor/workspace/tailored_resume.md) - Contains the full tailored resume formatted in clean markdown using standard hyphens (`-`) and headers without any asterisks (`*`) or long dashes (`—`).
